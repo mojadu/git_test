@@ -1,0 +1,1 @@
+This is mojadu's first git project!
